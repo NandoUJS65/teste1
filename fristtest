@@ -11,12 +11,12 @@
 <boddy>
    <header>
    <nav class="menu">
-     <li>Home</li>
+     <li href="index.html">Home</li>
+     <li href="">Cultura</li>
+     <li>Política</li>
      <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
+     <li>Contribua</li>
+     <li>Contatos</li>
    </header>
    
 </body>
