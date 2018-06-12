@@ -5,11 +5,14 @@
 <meta name="viewport" content="width= divice-width, initial-scale=1">
 <meta charset="utf-8">
 <title>Aqui Vai o Titulo</title>
+<link rel="stylesheet" href="ENDEREÇO.CSS">
 
 
 </head>
 <boddy>
   <header>
+
+  </header>
   <nav class="menu">
     <a href="index.html"><li>Home</li></a>
     <a href="cultura.html"><li>Cultura</li></a>
@@ -17,7 +20,6 @@
     <a href="contribua.html"><li>Contribua</li></a>
     <a hrfe="contatos.html"><li>Contatos</li></a>
     </nav>
-  </header>
 
 </body>
 
