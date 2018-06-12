@@ -1,24 +1,23 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
 
-
+<meta name="viewport" content="width= divice-width, initial-scale=1">
 <meta charset="utf-8">
 <title>Aqui Vai o Titulo</title>
 
 
 </head>
 <boddy>
-   <header>
-   <nav class="menu">
-     <li href="index.html">Home</li>
-     <li href="">Cultura</li>
-     <li>Política</li>
-     <li></li>
-     <li>Contribua</li>
-     <li>Contatos</li>
-   </header>
-   
+  <header>
+  <nav class="menu">
+    <a href="index.html"><li>Home</li></a>
+    <a href="cultura.html"><li>Cultura</li></a>
+    <a href="politica.html"><li>Política</li>
+    <a href="contribua.html"><li>Contribua</li></a>
+    <a hrfe="contatos.html"><li>Contatos</li></a>
+  </header>
+
 </body>
 
 
