@@ -1,15 +1,25 @@
  <!DOCTYPE html>
 <html lang="pt-br">
 <head>
+
+
 <meta charset="utf-8">
 <title>Aqui Vai o Titulo</title>
+
+
 </head>
-
-
-  <boddy>
-
-
-  </body>
+<boddy>
+   <header>
+   <nav class="menu">
+     <li>Home</li>
+     <li></li>
+     <li></li>
+     <li></li>
+     <li></li>
+     <li></li>
+   </header>
+   
+</body>
 
 
 
